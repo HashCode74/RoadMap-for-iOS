@@ -13,6 +13,7 @@
 - Click "Show" to copy the API key, then enter it in RoadMap app > Settings > Notion Integration > API Key > Basic Notion Integration
 ![API Key](images/notion_img_05.png)
 
+
 - Enter API Key
 ![Enter API Key](images/notion_img_06.png)
 
